@@ -1,0 +1,10 @@
+{
+    "makefile.configureOnOpen": false,
+    "files.associations": {
+        "glfw3.h": "c",
+        "cstdint": "c",
+        "future": "c",
+        "system_error": "c"
+    },
+    "cmake.sourceDirectory": "/home/arth/Documents/c-cpp-projects/test-c-first/cglm"
+}

@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/arth/Documents/C-CPP-PROJECTS/test-c-first/build/cmake_install.cmake",
+		"/home/arth/Documents/C-CPP-PROJECTS/test-c-first/build/src/cmake_install.cmake",
+		"/home/arth/Documents/C-CPP-PROJECTS/test-c-first/build/examples/cmake_install.cmake",
+		"/home/arth/Documents/C-CPP-PROJECTS/test-c-first/build/tests/cmake_install.cmake",
+		"/home/arth/Documents/C-CPP-PROJECTS/test-c-first/build/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
